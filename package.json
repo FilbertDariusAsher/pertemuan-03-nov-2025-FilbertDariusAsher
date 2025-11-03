@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/FilbertDariusAsher/pertemuan-03-nov-2025-FilbertDariusAsher/issues"
   },
