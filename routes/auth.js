@@ -1,4 +1,4 @@
-import { createMahasiswa, loginMahasiswa, allMahasiswa, updateMahasiswa, deleteMahasiswa, getMahasiswaById } from '../controllers/MahasiswaController.js';
+import { createMahasiswa, loginMahasiswa, allMahasiswa, updateMahasiswa, deleteMahasiswa, getMahasiswaById } from '../controllers/mahasiswaController.js';
 import express from 'express';
 
 const router = express.Router();
